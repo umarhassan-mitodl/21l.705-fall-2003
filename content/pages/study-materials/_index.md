@@ -2,8 +2,6 @@
 content_type: page
 description: Historical images related to the text are available in the two image
   galleries in this section.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

@@ -4,8 +4,6 @@ description: 'A Summer in New England. '
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/0d7d672f5b565ad683f42d2b636fce11_harpers.jpg
 file_size: 62977
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: A Summer in New England.
   credit: Image courtesy of D. H. Strother, "A Summer in New England," in Harper's

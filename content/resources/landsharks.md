@@ -4,8 +4,6 @@ description: The Land Sharks.
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/f6f0f04cb2673caae5f68525a4ff124a_landsharks.jpg
 file_size: 95246
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: The Land Sharks.
   credit: Image courtesy of D. H. Strother, "A Summer in New England," in Harper's

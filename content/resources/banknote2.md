@@ -5,8 +5,6 @@ description: New Jersey Banknote (Garneray). Five Dollar Bill. Commercial Bank o
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/8c9eed7f9b84a308a3c826c8c25db002_banknote2.jpg
 file_size: 46577
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: New Jersey Banknote (Garneray). Five Dollar Bill. Commercial Bank of New
     Jersey (1856).

@@ -10,91 +10,91 @@ uid: d25173b4-a309-e60c-5f4a-27aa8780ea1c
 General
 -------
 
-[Oxford English Dictionary](http://dictionary.oed.com/entrance.dtl)
+{{% resource_link "09dc284f-f414-419c-8562-319fa9cbcd3b" "Oxford English Dictionary" %}}
 
-[Citing Sources](http://libguides.mit.edu/content.php?pid=80743&sid=598619)  
+{{% resource_link "b3402080-a7f2-4dd0-95a7-e9dc6715dd76" "Citing Sources" %}}  
 A link to MLA style sheet and MIT style manual.
 
-[Searchable Bible](http://bible.crosswalk.com/)  
+{{% resource_link "24357789-67c3-4f2e-91cd-a82966817a2c" "Searchable Bible" %}}  
 Use the King James Version for both Melville and Morrison.
 
-[Making of America](http://cdl.library.cornell.edu/moa/)  
+{{% resource_link "8865167a-9ac4-4247-83b5-de77f02c138d" "Making of America" %}}  
 Nineteenth-century American books and periodicals.
 
-[Image Search](http://www.google.com/imghp?hl=en)
+{{% resource_link "14350396-74ea-4e8c-8a20-3a4286ac7c3b" "Image Search" %}}
 
-[Perspectives on American Literature: A Research and Reference Guide](http://www.csustan.edu/english/reuben/pal/TABLE.HTML)
+{{% resource_link "3127a1ac-65c8-4e53-8358-2e5f3364083f" "Perspectives on American Literature: A Research and Reference Guide" %}}
 
-[American Authors (Gonzaga)](http://public.wsu.edu/~campbelld/amlit/aufram.html)
+{{% resource_link "0ef538b1-e98a-4b4d-a350-b7d4dde9c9e6" "American Authors (Gonzaga)" %}}
 
-[MIT Libraries American Literature Course Page](http://libguides.mit.edu/amlit)  
+{{% resource_link "542a0ccd-22e0-4f7d-a2f9-5702c649655b" "MIT Libraries American Literature Course Page" %}}  
 A source for online materials and advice about research.
 
-[Africana](http://www.africana.com/)  
+{{% resource_link "686b8707-51ef-45da-b687-18c85603a7ec" "Africana" %}}  
 Gateway to the Black World.
 
-[Bullfinch's Mythology](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mytholog)
+{{% resource_link "5db86d06-bbd1-43e1-a67d-b1d220eb5d75" "Bullfinch's Mythology" %}}
 
-[African American Odyssey/Library of Congress](http://memory.loc.gov/ammem/aaohtml/exhibit/aointro.html)
+{{% resource_link "6fad194f-b8b1-4d41-b844-3e73efe371a9" "African American Odyssey/Library of Congress" %}}
 
 Herman Melville
 ---------------
 
-[Digital Moby-Dick](http://www.mobydickthewhale.com/)  
+{{% resource_link "04714e88-d8b5-4be9-a883-7f7c54e52316" "Digital Moby-Dick" %}}  
 Online text, useful for searches. Not always accurate, though.
 
-[The Town-Ho's Story](http://cdl.library.cornell.edu/moa/moa_search.html)  
+{{% resource_link "3757c9b0-c359-4170-8e90-b2abdae84d92" "The Town-Ho's Story" %}}  
 Original publication in Harper's Magazine.
 
-[Making of America](http://cdl.library.cornell.edu/moa/)  
+{{% resource_link "8865167a-9ac4-4247-83b5-de77f02c138d" "Making of America" %}}  
 Find first printings of Melville's stories.
 
-[Melville Society](http://people.hofstra.edu/faculty/John_L_Bryant/Melville/)
+{{% resource_link "5659f446-2eeb-471d-8648-4d642eb2dab7" "Melville Society" %}}
 
-[Selected Bibliography on Moby-Dick](http://public.wsu.edu/~campbelld/amlit/melville1.htm)  
+{{% resource_link "285ba43d-4a4d-440e-bfcc-03686f805bb1" "Selected Bibliography on Moby-Dick" %}}  
 From the Gonzaga American Authors site.
 
 "Amistad" case  
 Mystic Seaport site on one possible source for "Benito Cereno".
 
-[University of Massachusetts Site on Lowell Mill Girls](http://faculty.uml.edu/sgallagher/Mill_girls.htm)  
+{{% resource_link "967aef89-d41d-4096-817e-eaffc0cd4abc" "University of Massachusetts Site on Lowell Mill Girls" %}}  
 Historical analogue to Melville's paper mill in "Tartarus of Maids".
 
-[Information on Cinque, leader of the Amistad revolt](https://spartacus-educational.com/Scinque.htm)
+{{% resource_link "c7c22bfd-d80c-44f9-919f-e7b9a21e8da0" "Information on Cinque, leader of the Amistad revolt" %}}
 
 Text of "Benito Cereno" with maps and other information
 
-[University of Virginia - Confidence-Man site](http://xroads.virginia.edu/~MA96/atkins/cmnotes.html)  
+{{% resource_link "a2a59e9c-32fa-41a5-ab96-6ab2a88bea33" "University of Virginia - Confidence-Man site" %}}  
 Text and notes; some images.
 
 Toni Morrison
 -------------
 
-[Anniina's Morrison Page](http://www.luminarium.org/contemporary/tonimorrison/toni.htm)
+{{% resource_link "7136577e-0dae-4d6f-a44e-8c13ac9bbeaf" "Anniina's Morrison Page" %}}
 
-[Toni Morrison Resources](http://www.academicinfo.net/amlitmorrison.html)
+{{% resource_link "0b93e8b1-9274-40d9-b733-7af8cd39a207" "Toni Morrison Resources" %}}
 
-[Schomburg Collection](http://www.nypl.org/locations/tid/64/node/29174)
+{{% resource_link "0b0ebe04-c4e2-491c-9500-f1ade8166fd8" "Schomburg Collection" %}}
 
-[News on Love](http://www.randomhouse.com/knopf/catalog/display.pperl?isbn=0-375-40944-0&view=isbn_events)
+{{% resource_link "546c03bb-187b-47c8-a855-df73f60293fc" "News on Love" %}}
 
-[Picasso's "Les Demoiselles D'Avignon"](http://www.moma.org/visit/calendar/events/7200)
+{{% resource_link "111a133f-5b88-4917-92ec-c2d8093ea905" "Picasso's \"Les Demoiselles D'Avignon\"" %}}
 
-[Harlem Renaissance TimeLine](http://www.csustan.edu/english/reuben/pal/chap9/9intro.html)
+{{% resource_link "6d650475-1548-496c-86d6-96cec0f576c9" "Harlem Renaissance TimeLine" %}}
 
-[Paradise](http://www.luminarium.org/contemporary/tonimorrison/paradise.htm)  
+{{% resource_link "566f6607-8d2f-4536-a81e-8bfa560836cf" "Paradise" %}}  
 Timeline, genealogy, discussion questions.
 
-[Missing Peace in Toni Morrison's Sula and Beloved" by Rachel Lee](http://www.pbs.org/wgbh/pages/frontline/shows/religion/story/pagels.html)  
+{{% resource_link "09704c1e-490e-4009-a363-0f2b9a4af1da" "Missing Peace in Toni Morrison's Sula and Beloved\" by Rachel Lee" %}}  
 On an "aesthetic of ambiguity."
 
-[Jazz and The City](http://findarticles.com/p/articles/mi_m2838/is_2_35/ai_77828278)
+{{% resource_link "914a42a0-3f61-4e07-bbc0-86a99a841da7" "Jazz and The City" %}}
 
 History, Gender, and The South in Jazz
 
-[Identity in Jazz](http://lion.chadwyck.com/marketing/index.jsp)
+{{% resource_link "699f9aa3-50af-43fc-b329-dd1742169ced" "Identity in Jazz" %}}
 
 Harlem Renaissance
 ------------------
 
-[Rhapsodies in Black: Art of the Harlem Renaissance](https://searchworks.stanford.edu/view/3503851)
+{{% resource_link "8d8e8e10-5241-46c9-aba4-8deaf4ed39ff" "Rhapsodies in Black: Art of the Harlem Renaissance" %}}

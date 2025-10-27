@@ -4,8 +4,6 @@ description: Eskimaux Hunting Seals in Greenland. Colored engraving, G. Gallina 
 file: /courses/21l-705-major-authors-melville-and-morrison-fall-2003/86f325ea30c9fb6702eae90f598192de_whaling1.jpg
 file_size: 66863
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Eskimaux Hunting Seals in Greenland. Colored engraving, G. Gallina (n.d.).
   credit: Image courtesy of the Hart Nautical Collection, MIT Museum.
